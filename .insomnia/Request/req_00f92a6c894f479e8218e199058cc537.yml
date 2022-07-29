@@ -1,0 +1,29 @@
+_id: req_00f92a6c894f479e8218e199058cc537
+type: Request
+parentId: fld_c850c1a00e82410399b305c16099e9be
+modified: 1659112592587
+created: 1659112592587
+url: "{{ _.base_url }}/staking/delegators/:delegatorAddr/validators/:validatorAddr"
+name: /staking/delegators/:delegatorAddr/validators/:validatorAddr
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: delegatorAddr
+    value: terra1q8w4u2wyhx574m70gwe8km5za2ptanny95la5z
+    description: ""
+  - id: pair_ce8a7e29d885482e8bd33e04b61822f8
+    name: validatorAddr
+    value: terravaloper1q8w4u2wyhx574m70gwe8km5za2ptanny9mnqy3
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251465.8203
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

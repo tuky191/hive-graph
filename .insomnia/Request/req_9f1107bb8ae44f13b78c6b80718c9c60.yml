@@ -1,0 +1,25 @@
+_id: req_9f1107bb8ae44f13b78c6b80718c9c60
+type: Request
+parentId: fld_83cdadec1f9e4ead8e8ca744bed263a5
+modified: 1659112592553
+created: 1659112592553
+url: "{{ _.base_url }}/validators/:validatorAddr"
+name: /validators/:validatorAddr
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_b26051ea1b2b48ebbd09aed194d38bfb
+    name: validatorAddr
+    value: terravaloper1qq6u2sm9n8e20sdjrdmytp0084jfry802gffmk
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251162.9731
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_1cfc2e5edf2647388bf86b25afb2cb9a
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592570
+created: 1659112592570
+url: "{{ _.base_url }}/v1/dashboard/tx_volume"
+name: /v1/dashboard/tx_volume
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657646872852
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

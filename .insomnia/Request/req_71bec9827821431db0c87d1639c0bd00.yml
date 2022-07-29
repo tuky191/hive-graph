@@ -1,0 +1,21 @@
+_id: req_71bec9827821431db0c87d1639c0bd00
+type: Request
+parentId: fld_c850c1a00e82410399b305c16099e9be
+modified: 1659112592591
+created: 1659112592591
+url: "{{ _.base_url }}/staking/pool"
+name: /staking/pool
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251408.6719
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

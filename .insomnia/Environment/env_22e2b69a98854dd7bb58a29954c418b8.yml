@@ -1,0 +1,22 @@
+_id: env_22e2b69a98854dd7bb58a29954c418b8
+type: Environment
+parentId: env_07b11e3c9895488981859f1d18e787dc
+modified: 1659112592542
+created: 1659112592542
+name: columbus-5
+data:
+  base_url: "{{ _.protocol }}://{{ _.prefix }}-{{ _.sub }}.{{ _.domain }}"
+  protocol: https
+  sub: api
+  domain: terra.dev
+  prefix: columbus
+dataPropertyOrder:
+  "&":
+    - base_url
+    - protocol
+    - sub
+    - domain
+    - prefix
+color: "#e6f604"
+isPrivate: false
+metaSortKey: 1657650576181

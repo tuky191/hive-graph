@@ -1,0 +1,21 @@
+_id: req_54790aec3a384d6aa308b9f9c9a131d8
+type: Request
+parentId: fld_b98ee23cb1444bc385e7c8d031f3e54c
+modified: 1659112592617
+created: 1659112592617
+url: "{{ _.base_url }}/cosmos/authz/v1beta1/grants"
+name: /cosmos/authz/v1beta1/grants
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655146892.065
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

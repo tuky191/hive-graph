@@ -1,0 +1,22 @@
+_id: env_0b65122a04634e33ac2cd2e2d8bee753
+type: Environment
+parentId: env_07b11e3c9895488981859f1d18e787dc
+modified: 1659112592543
+created: 1659112592543
+name: local
+data:
+  base_url: "{{ _.protocol }}://{{ _.domain }}:8085{{ _.path }}"
+  protocol: http
+  path: /graphql
+  domain: 127.0.0.1
+  delegator: terra18pmvpy25zc7x0u8ppefuyyl2zaafe2wutqlxy2
+dataPropertyOrder:
+  "&":
+    - base_url
+    - protocol
+    - path
+    - domain
+    - delegator
+color: "#1613be"
+isPrivate: false
+metaSortKey: 1658981832448

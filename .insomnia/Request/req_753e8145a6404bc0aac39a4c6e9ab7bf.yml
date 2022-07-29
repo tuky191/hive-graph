@@ -1,0 +1,21 @@
+_id: req_753e8145a6404bc0aac39a4c6e9ab7bf
+type: Request
+parentId: fld_b98ee23cb1444bc385e7c8d031f3e54c
+modified: 1659112592616
+created: 1659112592616
+url: "{{ _.base_url }}/cosmos/auth/v1beta1/params"
+name: /cosmos/auth/v1beta1/params
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655147502.6587
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

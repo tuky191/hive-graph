@@ -1,0 +1,21 @@
+_id: req_db502f32e3c94264b599006a683e2349
+type: Request
+parentId: fld_dffbcf40c1c74648949b9bd3fb5c35c2
+modified: 1659112592603
+created: 1659112592603
+url: "{{ _.base_url }}/distribution/community_pool"
+name: /distribution/community_pool
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655370979.898
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

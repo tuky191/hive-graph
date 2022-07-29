@@ -1,0 +1,21 @@
+_id: req_c927bbff447c40c69d4b1d067b0783eb
+type: Request
+parentId: fld_4ebe9607e468484d9543f1320f1fa7d4
+modified: 1659112592610
+created: 1659112592610
+url: "{{ _.base_url }}/wasm/code"
+name: /wasm/code - blocked on cloudflare
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655175589.962
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_a804637b137147198c228046ff761bb5
+type: Request
+parentId: fld_604072af9f4543f6aa22933f78a75b4b
+modified: 1659112592619
+created: 1659112592619
+url: "{{ _.base_url }}/syncing"
+name: /syncing
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659003799241.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

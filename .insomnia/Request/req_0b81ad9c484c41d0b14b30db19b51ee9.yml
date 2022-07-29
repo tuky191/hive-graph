@@ -1,0 +1,25 @@
+_id: req_0b81ad9c484c41d0b14b30db19b51ee9
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592596
+created: 1659112592596
+url: "{{ _.base_url }}/gov/proposals"
+name: /gov/proposals/:voter - not working
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: voter
+    value: terra1u56c8mhw9qgmwgjcrxrarhxgzhg8k5h6cepnhf
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251441.6016
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

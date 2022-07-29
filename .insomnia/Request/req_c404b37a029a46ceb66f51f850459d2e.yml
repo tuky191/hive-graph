@@ -1,0 +1,21 @@
+_id: req_c404b37a029a46ceb66f51f850459d2e
+type: Request
+parentId: fld_b34d6ddf7fca4faf9e0e21be2b094b7d
+modified: 1659112592578
+created: 1659112592578
+url: "{{ _.base_url }}/validatorsets/latest"
+name: /validatorsets/latest
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251891.822
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

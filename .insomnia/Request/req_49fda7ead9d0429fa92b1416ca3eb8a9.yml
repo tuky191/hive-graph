@@ -1,0 +1,33 @@
+_id: req_49fda7ead9d0429fa92b1416ca3eb8a9
+type: Request
+parentId: fld_4ebe9607e468484d9543f1320f1fa7d4
+modified: 1659112592613
+created: 1659112592613
+url: "{{ _.base_url }}/wasm/contract/:contractAddr/raw/:key"
+name: /wasm/contract/:contractAddr/raw/:key - not implemented
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_0c6fae8e6d4541c996ea70fb09ff0232
+    name: contractAddr
+    value: terra1wu5cts7zr3sfmwlxfh7an3nthrx9cuz8fx7xfesmdudg2kzcwmhsaw24r8
+    description: ""
+  - id: pair_c8e50d052c3e4501a606fcc09afab184
+    name: key
+    value: 636F6E74726163745F696E666F
+    description: ""
+  - id: pair_48d41f67888742d8b26d73d6b790a096
+    name: ""
+    value: ""
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655137122.568
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

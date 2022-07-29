@@ -1,0 +1,21 @@
+_id: req_f43f6893b82f4e59bf8168385d118921
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592601
+created: 1659112592601
+url: "{{ _.base_url }}/gov/parameters/tallying"
+name: /gov/parameters/tallying
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251372.4648
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

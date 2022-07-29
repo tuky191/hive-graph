@@ -1,0 +1,21 @@
+_id: req_b0e2f51dd9484960ae35e3d93e6ae9ad
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592600
+created: 1659112592600
+url: "{{ _.base_url }}/gov/parameters/deposit"
+name: /gov/parameters/deposit
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251390.8508
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

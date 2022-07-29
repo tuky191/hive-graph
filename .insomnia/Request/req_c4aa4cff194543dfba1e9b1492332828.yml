@@ -1,0 +1,26 @@
+_id: req_c4aa4cff194543dfba1e9b1492332828
+type: Request
+parentId: fld_405d2f49822b4e8a94489837e78d87f2
+modified: 1659112592549
+created: 1659112592549
+url: "{{ _.base_url }}/story-protocol"
+name: root
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"query":"query { __typename }"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fa79d446a3404c818f9212c4da9ef834
+authentication: {}
+metaSortKey: -1657477338287
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

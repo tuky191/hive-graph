@@ -1,0 +1,25 @@
+_id: req_e670ad6c70db4e4ab1379a90b1e7adbc
+type: Request
+parentId: fld_83cdadec1f9e4ead8e8ca744bed263a5
+modified: 1659112592552
+created: 1659112592552
+url: "{{ _.base_url }}/validators"
+name: /validators
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_7800fd5f5da54f7b95751e32a449340f
+    name: ""
+    value: ""
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485297709.3025
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

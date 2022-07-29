@@ -1,0 +1,15 @@
+_id: fld_83cdadec1f9e4ead8e8ca744bed263a5
+type: RequestGroup
+parentId: wrk_3a58acfe0d35459ab08cbb7a818429b7
+modified: 1659112592550
+created: 1659112592550
+name: api
+description: ""
+environment:
+  sub: api
+  path: ""
+environmentPropertyOrder:
+  "&":
+    - sub
+    - path
+metaSortKey: -1657646805822

@@ -1,0 +1,21 @@
+_id: req_faafdd0b042c4db79c3b1e5bfbc6b922
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592573
+created: 1659112592573
+url: "{{ _.base_url }}/v1/txs/gas_prices"
+name: /v1/txs/gas_prices
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657646835087.1562
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

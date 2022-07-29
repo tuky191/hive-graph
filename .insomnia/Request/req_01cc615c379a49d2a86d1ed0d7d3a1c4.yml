@@ -1,0 +1,25 @@
+_id: req_01cc615c379a49d2a86d1ed0d7d3a1c4
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592565
+created: 1659112592565
+url: "{{ _.base_url }}/v1/bank/:account"
+name: /v1/bank/:account
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_55d8aa9049134b3196d67e56ba34e69f
+    name: account
+    value: terra1q8w4u2wyhx574m70gwe8km5za2ptanny95la5z
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655058306
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

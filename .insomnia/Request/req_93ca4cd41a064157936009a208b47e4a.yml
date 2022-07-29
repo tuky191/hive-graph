@@ -1,0 +1,21 @@
+_id: req_93ca4cd41a064157936009a208b47e4a
+type: Request
+parentId: fld_c850c1a00e82410399b305c16099e9be
+modified: 1659112592586
+created: 1659112592586
+url: "{{ _.base_url }}/staking/redelegations"
+name: /staking/redelegations
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251528.3203
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

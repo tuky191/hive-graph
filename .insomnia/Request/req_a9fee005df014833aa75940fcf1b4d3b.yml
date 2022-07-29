@@ -1,0 +1,21 @@
+_id: req_a9fee005df014833aa75940fcf1b4d3b
+type: Request
+parentId: fld_ad6c164794d349eba595a0d8af74ce21
+modified: 1659112592594
+created: 1659112592594
+url: "{{ _.base_url }}/slashing/parameters"
+name: /slashing/parameters
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251404.6533
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

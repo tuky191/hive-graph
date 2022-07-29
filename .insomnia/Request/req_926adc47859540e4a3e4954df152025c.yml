@@ -1,0 +1,21 @@
+_id: req_926adc47859540e4a3e4954df152025c
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592569
+created: 1659112592569
+url: "{{ _.base_url }}/v1/dashboard/staking_return"
+name: /v1/dashboard/staking_return
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657647066208
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

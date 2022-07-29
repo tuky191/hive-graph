@@ -1,0 +1,25 @@
+_id: req_337ea97ef39f47928cb402a688b9abab
+type: Request
+parentId: fld_b98ee23cb1444bc385e7c8d031f3e54c
+modified: 1659112592616
+created: 1659112592616
+url: "{{ _.base_url }}/cosmos/auth/v1beta1/accounts/:address"
+name: /cosmos/auth/v1beta1/accounts/:address
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_84494ae428c84b3daa2f7aed1c45e589
+    name: address
+    value: terra12e5fx2mwcgejddgwkad433rt4cpuj8gmz30jqt
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655148723.8457
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

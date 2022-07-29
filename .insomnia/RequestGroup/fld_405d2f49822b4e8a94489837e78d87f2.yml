@@ -1,0 +1,13 @@
+_id: fld_405d2f49822b4e8a94489837e78d87f2
+type: RequestGroup
+parentId: wrk_3a58acfe0d35459ab08cbb7a818429b7
+modified: 1659112592548
+created: 1659112592548
+name: story-protocol
+description: ""
+environment:
+  sub: gateway
+environmentPropertyOrder:
+  "&":
+    - sub
+metaSortKey: -1657646764796

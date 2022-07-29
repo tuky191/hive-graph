@@ -1,0 +1,21 @@
+_id: req_b48b49e44d874f77b100a00c37f82abd
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592564
+created: 1659112592564
+url: "{{ _.base_url }}/health"
+name: /health
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655058356
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

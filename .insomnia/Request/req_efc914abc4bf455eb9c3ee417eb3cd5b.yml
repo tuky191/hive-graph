@@ -1,0 +1,21 @@
+_id: req_efc914abc4bf455eb9c3ee417eb3cd5b
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592567
+created: 1659112592567
+url: "{{ _.base_url }}/v1/dashboard/block_rewards"
+name: /v1/dashboard/block_rewards
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657648870864
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

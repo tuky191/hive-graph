@@ -1,0 +1,25 @@
+_id: req_7319bd65c65b4d7eb49bc9b8128ef126
+type: Request
+parentId: fld_b34d6ddf7fca4faf9e0e21be2b094b7d
+modified: 1659112592579
+created: 1659112592579
+url: "{{ _.base_url }}/validatorsets/:height"
+name: /validatorsets/:height
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_83e0abe445b84e6fa739383b1a03ea53
+    name: height
+    value: "767591"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251941.822
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

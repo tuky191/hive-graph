@@ -1,0 +1,21 @@
+_id: req_4b26b93e68dc41b99bb1afc78beefced
+type: Request
+parentId: fld_ed1ba87ddde544a1be627c2fc1870d70
+modified: 1659112592576
+created: 1659112592576
+url: "{{ _.base_url }}/blocks/latest"
+name: /blocks/latest
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485254078.3687
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_10384726029f47a491752ff784f07b3c
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592595
+created: 1659112592595
+url: "{{ _.base_url }}/gov/proposals"
+name: /gov/proposals/:status
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: status
+    value: passed
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251443.9453
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

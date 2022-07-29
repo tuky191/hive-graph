@@ -1,0 +1,25 @@
+_id: req_908e8763dfd54683884ed49c6e1151c8
+type: Request
+parentId: fld_f543bd44cd404a38bd5de38ccf48a458
+modified: 1659112592580
+created: 1659112592580
+url: "{{ _.base_url }}/bank/balances/:address"
+name: /bank/balances/:address
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: address
+    value: terra1q8w4u2wyhx574m70gwe8km5za2ptanny95la5z
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251254.079
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

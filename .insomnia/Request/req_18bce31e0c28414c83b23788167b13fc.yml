@@ -1,0 +1,25 @@
+_id: req_18bce31e0c28414c83b23788167b13fc
+type: Request
+parentId: fld_4ebe9607e468484d9543f1320f1fa7d4
+modified: 1659112592611
+created: 1659112592611
+url: "{{ _.base_url }}/wasm/code/:codeID"
+name: /wasm/code/:codeID
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_0c6fae8e6d4541c996ea70fb09ff0232
+    name: codeID
+    value: "12"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655156050.9683
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

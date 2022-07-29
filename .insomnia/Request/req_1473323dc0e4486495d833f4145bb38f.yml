@@ -1,0 +1,21 @@
+_id: req_1473323dc0e4486495d833f4145bb38f
+type: Request
+parentId: fld_72ae29bd6e9141b6ae885c96c97ae4bb
+modified: 1659112592607
+created: 1659112592607
+url: "{{ _.base_url }}/minting/parameters"
+name: /minting/parameters
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655214667.949
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

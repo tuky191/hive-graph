@@ -1,0 +1,21 @@
+_id: req_323ca58feecf4e7283b66ee4e3ba6c6d
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592566
+created: 1659112592566
+url: "{{ _.base_url }}/v1/dashboard/active_accounts"
+name: /v1/dashboard/active_accounts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657650933328
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

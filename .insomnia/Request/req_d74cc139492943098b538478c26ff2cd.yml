@@ -1,0 +1,25 @@
+_id: req_d74cc139492943098b538478c26ff2cd
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592598
+created: 1659112592598
+url: "{{ _.base_url }}/gov/proposals/:proposalId/deposits"
+name: /gov/proposals/:proposalId/deposits - not implemented
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: proposalId
+    value: "446"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251440.918
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_61ab25de4481455bbe3009103f1789ed
+type: Request
+parentId: fld_4ebe9607e468484d9543f1320f1fa7d4
+modified: 1659112592611
+created: 1659112592611
+url: "{{ _.base_url }}/wasm/code/:codeID/contracts"
+name: /wasm/code/:codeID/contracts - blocked on cloudflare
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_0c6fae8e6d4541c996ea70fb09ff0232
+    name: codeID
+    value: "12"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655146281.4714
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

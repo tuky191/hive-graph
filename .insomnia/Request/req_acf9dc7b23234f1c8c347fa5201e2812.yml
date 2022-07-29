@@ -1,0 +1,25 @@
+_id: req_acf9dc7b23234f1c8c347fa5201e2812
+type: Request
+parentId: fld_dffbcf40c1c74648949b9bd3fb5c35c2
+modified: 1659112592606
+created: 1659112592606
+url: "{{ _.base_url }}/distribution/validators/:validatorAddr/outstanding_rewards"
+name: /distribution/validators/:validatorAddr/outstanding_rewards
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a0368ceceb69415d883bc7ab591b9ec4
+    name: validatorAddr
+    value: terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655683703.7957
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

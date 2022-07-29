@@ -1,0 +1,25 @@
+_id: req_361173fa44f847858d31b46b3d02b9e2
+type: Request
+parentId: fld_ed1ba87ddde544a1be627c2fc1870d70
+modified: 1659112592577
+created: 1659112592577
+url: "{{ _.base_url }}/blocks/:height"
+name: /blocks/:height
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_1e1cde7391674534afadd23d6a87ec9e
+    name: height
+    value: "767591"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485254128.3687
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

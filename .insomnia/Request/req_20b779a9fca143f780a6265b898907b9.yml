@@ -1,0 +1,21 @@
+_id: req_20b779a9fca143f780a6265b898907b9
+type: Request
+parentId: fld_b98ee23cb1444bc385e7c8d031f3e54c
+modified: 1659112592615
+created: 1659112592615
+url: "{{ _.base_url }}/cosmos/auth/v1beta1/accounts "
+name: /cosmos/auth/v1beta1/accounts - blocked on cloudflare
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655151166.2197
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

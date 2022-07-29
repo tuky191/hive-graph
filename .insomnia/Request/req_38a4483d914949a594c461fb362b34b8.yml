@@ -1,0 +1,21 @@
+_id: req_38a4483d914949a594c461fb362b34b8
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592601
+created: 1659112592601
+url: "{{ _.base_url }}/gov/parameters/voting"
+name: /gov/parameters/voting
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251363.272
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

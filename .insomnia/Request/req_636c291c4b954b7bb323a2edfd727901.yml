@@ -1,0 +1,25 @@
+_id: req_636c291c4b954b7bb323a2edfd727901
+type: Request
+parentId: fld_4ebe9607e468484d9543f1320f1fa7d4
+modified: 1659112592612
+created: 1659112592612
+url: "{{ _.base_url }}/wasm/contract/:contractAddr/state"
+name: /wasm/contract/:contractAddr/state
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_0c6fae8e6d4541c996ea70fb09ff0232
+    name: contractAddr
+    value: terra1wu5cts7zr3sfmwlxfh7an3nthrx9cuz8fx7xfesmdudg2kzcwmhsaw24r8
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655138954.3489
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_0157bc13c3934d538e9e1d402b813d42
+type: Request
+parentId: fld_6fd6c0b99716437c96603e6836d085cd
+modified: 1659112592597
+created: 1659112592597
+url: "{{ _.base_url }}/gov/proposals/:proposalId/proposer"
+name: /gov/proposals/:proposalId/proposer
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: proposalId
+    value: "446"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251441.0156
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

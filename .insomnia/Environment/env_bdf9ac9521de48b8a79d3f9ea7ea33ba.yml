@@ -1,0 +1,24 @@
+_id: env_bdf9ac9521de48b8a79d3f9ea7ea33ba
+type: Environment
+parentId: env_07b11e3c9895488981859f1d18e787dc
+modified: 1659112592538
+created: 1659112592538
+name: pisco-1
+data:
+  base_url: "{{ _.protocol }}://{{ _.prefix }}-{{ _.sub }}.{{ _.domain }}"
+  protocol: https
+  sub: api
+  domain: terra.dev
+  prefix: pisco
+  delegator: terra18pmvpy25zc7x0u8ppefuyyl2zaafe2wutqlxy2
+dataPropertyOrder:
+  "&":
+    - base_url
+    - protocol
+    - sub
+    - domain
+    - prefix
+    - delegator
+color: "#7d69cb"
+isPrivate: false
+metaSortKey: 1657313856587

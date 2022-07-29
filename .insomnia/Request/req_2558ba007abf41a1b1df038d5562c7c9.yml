@@ -1,0 +1,21 @@
+_id: req_2558ba007abf41a1b1df038d5562c7c9
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592568
+created: 1659112592568
+url: "{{ _.base_url }}/v1/dashboard"
+name: /v1/dashboard
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657647839632
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

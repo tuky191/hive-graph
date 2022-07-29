@@ -1,0 +1,26 @@
+_id: env_3ec9c8b423b8446483089f5d8e49f99c
+type: Environment
+parentId: env_07b11e3c9895488981859f1d18e787dc
+modified: 1659112592541
+created: 1659112592541
+name: phoenix-1
+data:
+  base_url: "{{ _.protocol }}://{{ _.prefix }}-{{ _.sub }}.{{ _.domain }}"
+  protocol: https
+  sub: api
+  domain: terra.dev
+  prefix: phoenix
+  delegator: terra18pmvpy25zc7x0u8ppefuyyl2zaafe2wutqlxy2
+  validator: terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e
+dataPropertyOrder:
+  "&":
+    - base_url
+    - protocol
+    - sub
+    - domain
+    - prefix
+    - delegator
+    - validator
+color: "#c51616"
+isPrivate: false
+metaSortKey: 1657650081990

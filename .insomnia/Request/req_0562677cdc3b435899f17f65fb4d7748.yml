@@ -1,0 +1,21 @@
+_id: req_0562677cdc3b435899f17f65fb4d7748
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592566
+created: 1659112592566
+url: "{{ _.base_url }}/v1/dashboard/account_growth"
+name: /v1/dashboard/account_growth
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657655058256
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

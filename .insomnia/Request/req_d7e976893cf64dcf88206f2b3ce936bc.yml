@@ -1,0 +1,21 @@
+_id: req_d7e976893cf64dcf88206f2b3ce936bc
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592568
+created: 1659112592568
+url: "{{ _.base_url }}/v1/dashboard/registered_accounts"
+name: /v1/dashboard/registered_accounts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657647324016
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

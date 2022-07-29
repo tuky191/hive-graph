@@ -1,0 +1,21 @@
+_id: req_6a8fd90bb24f4107a69f21a48dce3f21
+type: Request
+parentId: fld_604072af9f4543f6aa22933f78a75b4b
+modified: 1659112592619
+created: 1659112592619
+url: "{{ _.base_url }}/txs"
+name: /txs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659003799235.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

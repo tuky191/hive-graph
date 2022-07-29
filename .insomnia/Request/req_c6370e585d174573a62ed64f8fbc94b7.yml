@@ -1,0 +1,25 @@
+_id: req_c6370e585d174573a62ed64f8fbc94b7
+type: Request
+parentId: fld_dffbcf40c1c74648949b9bd3fb5c35c2
+modified: 1659112592604
+created: 1659112592604
+url: "{{ _.base_url }}/distribution/delegators/:delegatorAddr/withdraw_address"
+name: /distribution/delegators/:delegatorAddr/withdraw_address
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a0368ceceb69415d883bc7ab591b9ec4
+    name: delegatorAddr
+    value: terra1qqqz5f2l5epfft7l08wvp8qddhtapk437fy07t
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657657559747.1826
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

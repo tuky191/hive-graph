@@ -1,0 +1,21 @@
+_id: req_92d13b0b94804189a064419918fd1753
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592574
+created: 1659112592574
+url: "{{ _.base_url }}/v1/mempool"
+name: /v1/mempool
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657646833576.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,25 @@
+_id: req_acb72f55b1cb4d1cbe08088c09b45865
+type: Request
+parentId: fld_83cdadec1f9e4ead8e8ca744bed263a5
+modified: 1659112592563
+created: 1659112592563
+url: "{{ _.base_url }}/chart/tx-volume/:denom/cumulative"
+name: /chart/tx-volume/:denom/cumulative
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_7800fd5f5da54f7b95751e32a449340f
+    name: denom
+    value: uluna
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657486112270.0645
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

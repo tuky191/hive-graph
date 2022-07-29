@@ -1,0 +1,25 @@
+_id: req_ef6ff84eb14e4c3890f8ad384ae9ff49
+type: Request
+parentId: fld_a0cdada33db442fdb712858589acd786
+modified: 1659112592583
+created: 1659112592583
+url: "{{ _.base_url }}/auth/accounts/:address"
+name: /auth/accounts/:address
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: address
+    value: terra1q8w4u2wyhx574m70gwe8km5za2ptanny95la5z
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251168.6672
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

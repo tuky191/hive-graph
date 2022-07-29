@@ -1,0 +1,21 @@
+_id: req_8a223e503e494b329d58d190a049695c
+type: Request
+parentId: fld_c850c1a00e82410399b305c16099e9be
+modified: 1659112592592
+created: 1659112592592
+url: "{{ _.base_url }}/staking/parameters"
+name: /staking/parameters
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251406.3755
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

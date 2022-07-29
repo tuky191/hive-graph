@@ -1,0 +1,25 @@
+_id: req_33a1cc7b3df543fd8d4263aa7bdc25fa
+type: Request
+parentId: fld_f543bd44cd404a38bd5de38ccf48a458
+modified: 1659112592582
+created: 1659112592582
+url: "{{ _.base_url }}/bank/total/:denomination"
+name: /bank/total/:denomination
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_adbf11182df1455f9a9a51a7e78e3cc1
+    name: denomination
+    value: uluna
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657485251404.079
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

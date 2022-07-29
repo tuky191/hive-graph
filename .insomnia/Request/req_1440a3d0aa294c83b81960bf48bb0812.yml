@@ -1,0 +1,25 @@
+_id: req_1440a3d0aa294c83b81960bf48bb0812
+type: Request
+parentId: fld_8d180aea10104e98aa2babc92943302c
+modified: 1659112592573
+created: 1659112592573
+url: "{{ _.base_url }}/v1/mempool/:txhash"
+name: /v1/mempool/:txhash
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_7c4b133d85224e7f98323120a7187ee7
+    name: txhash
+    value: AE4FB0920604039F6495BF1014959F3A5B362556D87DA05D836E4A2B82A68E04
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657646833073.0312
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

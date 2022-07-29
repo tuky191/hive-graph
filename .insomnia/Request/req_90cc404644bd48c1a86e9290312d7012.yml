@@ -1,0 +1,30 @@
+_id: req_90cc404644bd48c1a86e9290312d7012
+type: Request
+parentId: fld_dffbcf40c1c74648949b9bd3fb5c35c2
+modified: 1659112592604
+created: 1659112592604
+url: "{{ _.base_url
+  }}/distribution/delegators/:delegatorAddr/rewards/:validatorAddr"
+name: /distribution/delegators/:delegatorAddr/rewards/:validatorAddr
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a0368ceceb69415d883bc7ab591b9ec4
+    name: delegatorAddr
+    value: terra1qqqz5f2l5epfft7l08wvp8qddhtapk437fy07t
+    description: ""
+  - id: pair_6687b49ac4224cb0a9c75ee7f3184869
+    name: validatorAddr
+    value: terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657655371017.398
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

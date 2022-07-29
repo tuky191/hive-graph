@@ -1,0 +1,21 @@
+_id: req_2e27cb87a64c49b19166087d2c27d7cd
+type: Request
+parentId: fld_ad6c164794d349eba595a0d8af74ce21
+modified: 1659112592593
+created: 1659112592593
+url: "{{ _.base_url }}/slashing/signing_infos"
+name: /slashing/signing_infos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657485251405.2273
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
